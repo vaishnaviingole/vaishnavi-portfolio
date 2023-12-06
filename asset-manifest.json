@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vaishnavi-portfolio/static/css/main.c7813375.css",
+    "main.js": "/vaishnavi-portfolio/static/js/main.0e60b6e4.js",
+    "static/media/self.jpg": "/vaishnavi-portfolio/static/media/self.446805eec8d220aaeec5.jpg",
+    "static/media/mock2.png": "/vaishnavi-portfolio/static/media/mock2.e8ed2c07928dfdc15a79.png",
+    "static/media/java-logo.jpg": "/vaishnavi-portfolio/static/media/java-logo.bc7a3325b6ee01ddcab8.jpg",
+    "static/media/mock1.png": "/vaishnavi-portfolio/static/media/mock1.e11f6103909e8c52d703.png",
+    "static/media/css-logo.png": "/vaishnavi-portfolio/static/media/css-logo.7b2eb4849c1c79b2be14.png",
+    "static/media/mysql-logo.jpg": "/vaishnavi-portfolio/static/media/mysql-logo.1954b42513aedad6af9b.jpg",
+    "static/media/todo.jpg": "/vaishnavi-portfolio/static/media/todo.4e1cf87ddd9251c7556d.jpg",
+    "static/media/bank.jpg": "/vaishnavi-portfolio/static/media/bank.832ae8d5f7ca508e2b73.jpg",
+    "static/media/vc.jpg": "/vaishnavi-portfolio/static/media/vc.f1f27d5eb47cb1813173.jpg",
+    "static/media/uni.jpg": "/vaishnavi-portfolio/static/media/uni.4137c884b86d7cde98ff.jpg",
+    "static/media/cdac.jpg": "/vaishnavi-portfolio/static/media/cdac.c20b5b814c8a05a56fe2.jpg",
+    "index.html": "/vaishnavi-portfolio/index.html",
+    "main.c7813375.css.map": "/vaishnavi-portfolio/static/css/main.c7813375.css.map",
+    "main.0e60b6e4.js.map": "/vaishnavi-portfolio/static/js/main.0e60b6e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7813375.css",
+    "static/js/main.0e60b6e4.js"
+  ]
+}
